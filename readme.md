@@ -1,6 +1,6 @@
 <div align="center">
     <h1> PageBot </h1>
-    <img src="./readme_src/project-cover.jpg" alt="Project Cover" width="450">
+    <img src="./readme_src/project-cover.jpg" alt="Project Cover" width="400">
 </div>
 
 ## Table of Contents
@@ -74,18 +74,16 @@ To install Project, follow these simple steps:
 	- Visit [Python official website](https://www.python.org/downloads/) and download python. 
 	- I strongly recommend downloading a version lower than 3.10 and higher than 3 to ensure that you can download it without any issues and run the Talib library smoothly.
 2. **Cloning the Project into your local:**
-    Go to the directory where you want to download the project using 'cd', and then type the following command <br>
+    Go to the directory where you want to download the project using 'cd', and then type the following command 
     ```bash
     $git clone https://github.com/basaryldrm06/PaceBot
     ```
-    <br>
 3. **Install Dependencies**
-    Enter these commands in sequence. <br>
+    Enter these commands in sequence.
     ```bash
     $cd PaceBot
     $pip install -r requirements.txt
     ```
-    <br>
 Upon successfully completing these steps, proceed to configure your settings and run the program.
 
 In case you encounter any issues, kindly attempt to resolve them before moving forward.
