@@ -34,6 +34,7 @@ PaceBot serves as a tool for users interested in experimenting with automated st
 
 ## How It Works?
 During the Computer Architecture and GPU design lesson, I saw a model which is a 2 bit branch prediction counter. 
+In short, this model attempts to make accurate predictions by forecasting branching outcomes based on its current state.
 <div align="center">
     <img src="./readme_src/strategy1.png" alt="strategy" width="500">
 </div>
