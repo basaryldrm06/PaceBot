@@ -134,7 +134,7 @@ This trading bot is developed solely for experimental purposes, aiming to explor
 Any profits or losses incurred using this bot are entirely your responsibility. Please refrain from using the program if you are not familiar with its functionalities. Understand that engaging in financial transactions carries inherent risks, and it's crucial to exercise caution and knowledge when utilizing this bot.
 
 <div align="center">
-    <img src="./readme_src/high-risk.jpg" alt="Code Example" width="250">
+    <img src="./readme_src/high-risk.jpg" alt="Code Example" width="350">
 </div>
 
 ## Last Words from Developer
