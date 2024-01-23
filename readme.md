@@ -1,6 +1,6 @@
 <div align="center">
     <h1> PageBot </h1>
-    <img src="./readme_src/project-cover.jpg" alt="Project Cover" width="500">
+    <img src="./readme_src/project-cover.jpg" alt="Project Cover" width="450">
 </div>
 
 ## Table of Contents
@@ -35,7 +35,7 @@ PaceBot serves as a tool for users interested in experimenting with automated st
 ## How It Works?
 During the Computer Architecture and GPU design lesson, I saw a model which is a 2 bit branch prediction counter. 
 <div align="center">
-    <img src="./readme_src/strategy1.png" alt="strategy" width="800">
+    <img src="./readme_src/strategy1.png" alt="strategy" width="500">
 </div>
 
 You can check out this model more by searching "2 bit branch predictor" on Google.<br>
@@ -43,7 +43,7 @@ So, I though that the process of predicting the next branch state and the result
 
 The operational logic of the bot is as follows:
 <div align="center">
-    <img src="./readme_src/strategy2.png" alt="strategy" width="800">
+    <img src="./readme_src/strategy2.png" alt="strategy" width="500">
 </div>
 
 
@@ -74,17 +74,18 @@ To install Project, follow these simple steps:
 	- Visit [Python official website](https://www.python.org/downloads/) and download python. 
 	- I strongly recommend downloading a version lower than 3.10 and higher than 3 to ensure that you can download it without any issues and run the Talib library smoothly.
 2. **Cloning the Project into your local:**
-    Go to the directory where you want to download the project using 'cd', and then type the following command
+    Go to the directory where you want to download the project using 'cd', and then type the following command <br>
     ```bash
     $git clone https://github.com/basaryldrm06/PaceBot
     ```
+    <br>
 3. **Install Dependencies**
-    Enter these commands in sequence.
+    Enter these commands in sequence. <br>
     ```bash
     $cd PaceBot
     $pip install -r requirements.txt
     ```
-
+    <br>
 Upon successfully completing these steps, proceed to configure your settings and run the program.
 
 In case you encounter any issues, kindly attempt to resolve them before moving forward.
@@ -97,7 +98,7 @@ Rename the file config2.py to config.py.
 Open the config.py file to edit the settings, and fill in the empty fields according to your preferences.
 
 <div align="center">
-    <img src="./readme_src/config.png" alt="Config File">
+    <img src="./readme_src/config.png" alt="Config File" width="500">
 </div>
 
 If you do not have an api key you can obtain one from this [link](https://www.binance.com/en/my/settings/api-management)
@@ -116,14 +117,14 @@ $python main.py
 After running the command, you should see a screen similar to the one below.
 
 <div align="center">
-    <img src="./readme_src/running.png" alt="Running Bot">
+    <img src="./readme_src/running.png" alt="Running Bot" width="800">
 </div>
 
 ## Editing the Code
 Feel free to tailor the project to your specific preferences and requirements. The code has been meticulously documented to provide clear explanations of each component, empowering you to make effortless customizations. Whether you want to tweak parameters, integrate additional features, or adapt the functionality to suit your needs, the codebase is designed to be intuitive and easily adaptable. 
 
 <div align="center">
-    <img src="./readme_src/code.png" alt="Code Example">
+    <img src="./readme_src/code.png" alt="Code Example" width="800">
 </div>
 
 
