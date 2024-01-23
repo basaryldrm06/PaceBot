@@ -31,6 +31,7 @@ def close_position(isTP):
     global sl_count 
     global csv_path_result
     global date
+    global state
 
     position = ""
 
