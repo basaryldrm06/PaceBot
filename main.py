@@ -5,3 +5,6 @@ from data.io_utilities import print_with_color, calculateWR, print_position_mess
 from time import sleep
 from data.data_functions import save_position, save_result
 import copy
+
+# Binance API initialization
+client = Client(api_key, secret_key)
