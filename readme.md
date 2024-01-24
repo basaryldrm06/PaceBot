@@ -128,7 +128,7 @@ Feel free to tailor the project to your specific preferences and requirements. T
 
 
 ## Warnings
-This trading bot is developed solely for experimental purposes, aiming to explore the viability and effectiveness of using deep learning in financial transactions. It is a completely experimental project shared as open-source to serve as an example for the development of trading bots.
+This trading bot is developed solely for experimental purposes, aiming to explore the viability and effectiveness of automating the trading process by a spesific algorithm. It is a completely experimental project shared as open-source to serve as an example for the development of trading bots.
 
 Any profits or losses incurred using this bot are entirely your responsibility. Please refrain from using the program if you are not familiar with its functionalities. Understand that engaging in financial transactions carries inherent risks, and it's crucial to exercise caution and knowledge when utilizing this bot.
 
