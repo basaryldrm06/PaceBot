@@ -1,5 +1,5 @@
 <div align="center">
-    <h1> PageBot </h1>
+    <h1> PaceBot </h1>
     <img src="./readme_src/project-cover.jpg" alt="Project Cover" width="400">
 </div>
 
