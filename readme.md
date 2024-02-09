@@ -7,7 +7,7 @@
 
 - [Description](#description)
 
-- [How It Works?](#how-it-works)
+- [How does it work?](#how-does-it-work)
 
 - [Technologies Used](#technologies-used)
 
@@ -32,7 +32,7 @@ PaceBot serves as a tool for users interested in experimenting with automated st
     <img src="./readme_src/description.jpg" alt="Project Cover" width="400">
 </div>
 
-## How It Works?
+## How does it work?
 During the Computer Architecture and GPU design lesson, I saw a model which is a 2 bit branch prediction counter. 
 In short, this model attempts to make accurate predictions by forecasting branching outcomes based on its current state.
 <div align="center">
